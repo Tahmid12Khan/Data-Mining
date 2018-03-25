@@ -1,0 +1,9 @@
+
+1 apple,beer,rice,chicken
+2 apple,beer,rice
+3 apple,beer
+4 apple,mango
+5 milk,beer,rice,chicken
+6 milk,beer,rice
+7 milk,beer
+8 milk,mango
