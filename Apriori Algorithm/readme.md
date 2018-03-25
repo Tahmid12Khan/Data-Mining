@@ -1,4 +1,4 @@
-#Apriori Algorithm
+#Apriori Algorithm C++
 
 <b>First column is considered transaction id or simply id and thus always excluded. </b>
 
